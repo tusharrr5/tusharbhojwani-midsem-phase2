@@ -4,8 +4,7 @@
 - **Student Name:** Tushar Bhojwani
 - **Roll Number / UID:** 150
 - **Assigned Problem Statement:** P6 — Music Playlist
-- **Live Vercel Deployment Link:** https://tusharbhojwani-midsem-phase2.vercel.app
-- **GitHub Link:** https://github.com/tusharr5/tusharbhojwani-midsem-phase2
+- **Live Vercel Deployment Link:** https://tusharbhojwani-midsem-phase2-topaz.vercel.app/
 
 ---
 
