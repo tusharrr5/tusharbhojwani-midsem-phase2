@@ -37,3 +37,4 @@ npm run build
 - **Song Details (`/songs/:id`):** Dynamic routing using `useParams()` displaying song details (album, year, streams, duration, genre, artist), trending badge, and toggle button.
 - **Playlist (`/playlist`):** Displays all songs added to playlist along with total duration in `m:ss`, or shows `"Your playlist is empty"`.
 - **Navbar:** Real-time count of songs currently saved in the playlist with persistent state across route navigation.
+# tusharbhojwani-midsem-phase2
